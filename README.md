@@ -1,13 +1,13 @@
 # Public Domain Business Book Summaries
 
-Obsidian-ready summaries of public-domain business, economics, strategy, management, and communication books sourced from Project Gutenberg.
+Obsidian-ready summaries of public-domain business, economics, strategy, management, and communication books sourced from Project Gutenberg and legally downloadable Internet Archive records.
 
 This repository contains generated Markdown notes organized by book. Each book folder includes a `Book Index` note and sequential chapter or section notes with Obsidian wikilinks.
 
 ## Contents
 
-- 56 public-domain works verified against Project Gutenberg
-- 969 Markdown notes
+- 91 public-domain works verified against Project Gutenberg or Internet Archive
+- 1,733 Markdown notes
 - Book-level index files
 - Chapter and section summaries
 - YAML frontmatter for metadata and tags
@@ -35,7 +35,7 @@ The notes use Obsidian-style links such as:
 
 ## Source And Rights
 
-The source texts were matched against and downloaded from Project Gutenberg. Project Gutenberg distributes works that are public domain in the United States, but copyright status can vary by country. Check the source text and your local law if you plan to redistribute or commercially reuse the material.
+The source texts were matched against and downloaded from Project Gutenberg or public downloadable Internet Archive records. Project Gutenberg distributes works that are public domain in the United States, and Internet Archive item rights/access can vary by record. Copyright status can vary by country. Check the source text and your local law if you plan to redistribute or commercially reuse the material.
 
 The summaries and metadata in this repository were generated from those public-domain source texts. They are intended for research, reading, indexing, and personal knowledge management.
 
